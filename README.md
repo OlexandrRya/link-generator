@@ -1,22 +1,3 @@
-# Link Generator
-
-A tool for generating and managing links [brief description of what your project does and its main purpose].
-
-## Features
-
-- Quick link generation with custom parameters
-- Support for various link types and formats
-- Easy-to-use command-line interface
-- [Add other key features of your project]
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-- Docker and Docker Compose installed
-- Make utility installed
-- Git
-- [Any other prerequisites]
-
 ## Installation
 
 1. Clone the repository:
